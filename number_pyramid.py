@@ -24,3 +24,4 @@ n = int(input("Enter number of rows: "))
 result = number_pyramid(n)
 for line in result:
     print(line)
+
