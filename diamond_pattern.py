@@ -19,3 +19,4 @@ n = int(input("Enter number of rows: "))
 result = diamond_pattern(n)
 for line in result:
     print(line)
+
