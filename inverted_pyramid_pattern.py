@@ -14,3 +14,4 @@ n = int(input("Enter the number of rows: "))
 result = inverted_pyramid_pattern(n)
 for line in result:
     print(line)
+
