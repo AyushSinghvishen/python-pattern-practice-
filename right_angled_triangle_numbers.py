@@ -12,3 +12,4 @@ n = int(input("Enter the number of rows: "))
 result = right_angled_triangle_numbers(n)
 for line in result:
     print(line)
+
