@@ -19,3 +19,4 @@ n = int(input("Enter number of rows: "))
 result = hollow_inverted_right_triangle(n)
 for line in result:
     print(line)
+
