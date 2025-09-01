@@ -13,3 +13,4 @@ n = int(input("Enter number of columns: "))
 result = rectangle_pattern(m, n)
 for line in result:
     print(line)
+
