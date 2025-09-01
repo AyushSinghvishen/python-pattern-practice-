@@ -19,3 +19,4 @@ n = int(input("Enter number of rows: "))
 result = sandglass_pattern(n)
 for line in result:
     print(line)
+
